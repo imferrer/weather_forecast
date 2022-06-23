@@ -130,6 +130,6 @@ dmypy.json
 
 # data
 data/
-data_ber_temp/
+data_ber_tem/
 data_vlc_viv/
 data_vlc_air/
